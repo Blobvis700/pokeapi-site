@@ -1,0 +1,32 @@
+.fire {
+    background-color: red;
+    border-color: red;
+}
+
+.fire:hover {
+    background-color: rgb(156, 0, 0);
+}
+
+.normal {
+    background-color: gray;
+}
+
+.water {
+    background-color: blue;
+}
+
+.grass {
+    background-color: green;
+}
+
+.ice {
+    background-color: lightblue;
+}
+
+.poison {
+    background-color: purple;
+}
+
+.poison:hover {
+    background-color: rgb(97, 2, 97);
+}
